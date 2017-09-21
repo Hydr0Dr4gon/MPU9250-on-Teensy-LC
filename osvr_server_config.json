@@ -6,19 +6,8 @@
 		"plugin": "inf_osvr_arduino",
 		"driver": "ArduinoTracker",
 		"params": {
-			"port":"com3"
+			"port":"COM3"
 		}
-	//{
-		//"plugin": "je_nourish_fusion",
-		//"driver": "FusionDevice",
-		//"params": {
-		//	"name": "DK1_Teensy",
-		//		"orientation": {
-		//			"roll": "/je_nourish_openhmd/Oculus Rift (Devkit)/semantic/hmd",
-		//			"pitch": "/je_nourish_openhmd/Oculus Rift (Devkit)/semantic/hmd",
-		//			//"yaw": "/inf_osvr_arduino/ArduinoTracker/semantic/arduino"
-		//		}
-
 	}],
 	...
 	"aliases": {
